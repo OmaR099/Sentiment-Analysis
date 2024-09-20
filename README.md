@@ -18,7 +18,9 @@ This repository contains a deep learning model for sentiment analysis of IMDB mo
 
 ## Dataset  
 
-The dataset used for this project is the English IMDB Reviews dataset, which can be downloaded from [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews). The dataset contains 50,000 movie reviews, labeled as positive or negative.  
+The dataset used for this project is the English IMDB Reviews dataset, which can be downloaded from [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews). The dataset contains 50,000 movie reviews, labeled as positive or negative.
+
+![dataset-cover](https://github.com/user-attachments/assets/cd16bf8b-2198-443f-80f7-ad920450399e)
 
 ## Preprocessing  
 
