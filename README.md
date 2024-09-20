@@ -72,7 +72,7 @@ print(f'Accuracy: {accuracy * 100:.2f}%')
 
 After training and evaluation, the model achieved an accuracy of approximately 88% on the test set. The confusion matrix and classification report can further analyze the model's performance.
 
-![image](https://github.com/user-attachments/assets/304c0ba5-e205-4884-a8f4-0dbce33701b4)
+![image](https://github.com/user-attachments/assets/86895d15-94b5-410a-b6d3-73fc8da35658)
 
 ## Contributing
 
