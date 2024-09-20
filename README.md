@@ -54,7 +54,7 @@ The sentiment analysis model is built using an LSTM architecture. Below are the 
 To train the model, use the following command in your terminal or script:
 
 ```python 
-model.fit(X_train, y_train, epochs=10, batch_size=64, validation_split=0.2)
+model.fit(X_train, y_train, epochs=10, batch_size=32, validation_split=0.2)
 ```
 
 ## Evaluation
