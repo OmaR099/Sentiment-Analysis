@@ -42,9 +42,9 @@ Before training the model, the text data undergoes several preprocessing steps t
 
 The sentiment analysis model is built using an LSTM architecture. Below are the key components of the model:
 
-- Embedding Layer: Converts the input words into fixed-sized dense vectors.
-- LSTM Layer: Captures the temporal dependencies in the text data.
-- Dense Layer: Outputs the final prediction (positive or negative sentiment).
+- **Embedding Layer:** Converts the input words into fixed-sized dense vectors.
+- **LSTM Layer:** Captures the temporal dependencies in the text data.
+- **Dense Layer:** Outputs the final prediction (positive or negative sentiment).
 
 ![image](https://github.com/user-attachments/assets/bc4a50f0-4911-4052-b16f-141af7830af3)
 
